@@ -3,9 +3,7 @@
 
  1. Hoje na maioria dos apps de serviços financeiros os usuários podem criar cartões virtuais. Esses cartões podem ser de débito e crédito. O cartão de débito tem valor fixo ou pode usar o saldo direto do cliente. O cartão de crédito pode ser usado para compra única ou recorrente. Na compra única se usa o  cartão virtual uma única vez e na compra recorrente se usa o cartão periodicamente mas para uma única finalidade. Um exemplo de uso de cartão virtual para compra recorrente é para serviços como NetFlix, Globoplay, AmazonPrime. Considere modelar cenários para gerenciar cartões virtuais de débito e crédito e suas respectivas compras vinculadas a uma conta corrente.
  2. O Pix hoje é o mais recente meio de pagamentos da área financeira do nosso país. Tente modelar o cenário de Contas Pix e Transferencias entre contas. Considere os cenários onde um usuário queira criar e visualizar suas chaves, transferir, receber e visualizar um extrato simples dessas operações.
-
-
-
+ 3. Analise a classe [Conta.java](https://gist.github.com/willyancaetano/3dd54d16df06ccf549617e853ebe0198). Analise a mesma conforme seu aprendizado sobre orientacao a objetos e Java verifique os pontos que precisam de mudanca.
 
 
 ## Requisitos técnicos
